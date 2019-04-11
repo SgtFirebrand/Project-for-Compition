@@ -41,7 +41,7 @@
 </p>
 </body> 
 </html>
-     <!DOCTYPE html>
+    
 <html lang="en">
 </html>
 <head>
@@ -65,16 +65,15 @@
     </div>
   </header>
   <main class="site-content">
-    <h3 style="font-family:courier;"> Menu options </h3>
+    <h1 style="font-family:courier;"> Menu options </h1>
     <p> Breakfast Menu </p>
     <p>
       <div class="row">
         <div class="columns small-4 large-4">Eggs<br> -1 Egg w/biscuit or toast----$3.75<br> -2 Eggs w/biscuit or toast---- -$4.25<br> -1 Egg w/sausage, bacon, cityham, or bologna, biscuit, or toast----$4.75<br> -2 Egg w/sausage, bacon, city ham, or bologna, biscuit, or toast----$5.00<br>          -Cheese Omelet----$5.75<br> -1 Egg w/country ham or tenderloin, biscuit or toast----$6.00<br> -2 Eggs w/country ham or tenderloin, biscuit or toast----$6.50<br> -Omelet w/1 meat & biscuit or toast----$6.00<br> -Western Omelet w/biscuit or toast----$6.50<br>          -Meat Omelet w/biscuit or toast----$6.50<br> -Brains and Eggs----$5.00<br> -Brains and Eggs w/sausage, bacon, city ham, or bologna----$6.50<br> -Brains and Eggs w/country ham or tenderloin------$7.00<br> -1 Egg with whole country ham----$7.75<br>          -2 Eggs with whole country ham----$8.00</div>
-        <div class="columns small-4 large-4">Pancakes/Toast<br> -1 Pancake----$4.00<br> -2 pancakes-----$4.50<br> -1 Pancake w/sausage, bacon, city ham,or bologna-----$4.75<br> -2 Pancakes w/sausage, bacon, city ham, or bologna----$5.00<br> -French Toast-----$4.50<br> -French Toast w/sausage,
-          bacon, city ham, or bologna-----$5.00<br> -French Toast with country ham----$6.50<br> -French Toast with tenderloin----$6.50<br><br><br> Sides<br> -Cereal----$3.25<br> -Cereal
-          <w>
+        Pancakes/Toast<br> -1 Pancake----$4.00<br> -2 pancakes-----$4.50<br> -1 Pancake w/sausage, bacon, city ham,or bologna-----$4.75<br> -2 Pancakes w/sausage, bacon, city ham, or bologna----$5.00<br> -French Toast-----$4.50<br> -French Toast w/sausage,
+          bacon, city ham, or bologna-----$5.00<br> -French Toast with country ham----$6.50<br> -French Toast with tenderloin----$6.50<br><br><br> Sides<br> -Cereal----$3.25<br> -Cereal<w>
             banana----$4.00<br> -Toast plain or buttered----$2.75<br> -Ribeye steak breakfast----$7.50<br>-Bowl of Oatmeal-- --$3.00<br> -Grits----$0.75<br> -Gravy---$0.50<br> -Bananas----$0.50<br> -Honey Buns----$0.75<br> -Cinnamon Rolls----$0.75</div>
-        <div class="columns small-4 large-4">Biscuits<br> -Tenderloin (1pc) w/Biscuit and Gravy----$4.50 <br> -Tenderloin (2pc) w/Biscuit and Gravy----$2.50 <br> -Tenderloin on Toast or Bun----$5.00 <br> -Country Ham on Toast or Bun-----$5.00 <br> -Sausage, Bacon, City Ham, or Bologna Biscuit----$5.00
+        Biscuits<br> -Tenderloin (1pc) w/Biscuit and Gravy----$4.50 <br> -Tenderloin (2pc) w/Biscuit and Gravy----$2.50 <br> -Tenderloin on Toast or Bun----$5.00 <br> -Country Ham on Toast or Bun-----$5.00 <br> -Sausage, Bacon, City Ham, or Bologna Biscuit----$5.00
           <br> Country Ham or Tenderloin Biscuit-----$3.00 <br> -1 Biscuit & Gravy-----$2.25 <br> -2 Biscuit & Gravy-----$2.50 <br> -1 Biscuit & Gravy w/Sauage, Bacon, City Ham, or Bologna----$3.75 <br> -2 Biscuit & Gravy w/Sauage, Bacon, City Ham, or
           Bologna------$4.00 <br> -Bacon & Eggs w/Biscuit or Toast------$4.50 <br><br> <br> Beverages <br> -Tea----$0.75 <br> -Soft Drinks: Pepsi, Dr. Pepper (Both available in Diet) & Mt.Dew-------$1.50 <br> -Coffee----$0.75 <br> -Orange Juice-----$1.50
           <br> -Milk (White or Chocolate)-----$1.50 <br>
