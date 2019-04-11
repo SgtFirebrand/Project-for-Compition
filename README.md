@@ -16,12 +16,9 @@
   <link rel="stylesheet" href="styles/style.processed.css">
 
   <style>
-
     body {
-
       background-color: rgb(0, 255, 191);
     }
-
     h1 {
       text-align: center;
     }
@@ -52,48 +49,14 @@
 </p>
 </body> 
 </html>
-  <!DOCTYPE html>
+  
+     <!DOCTYPE html>
 <html lang="en">
 </html>
 <head>
   <meta charset="utf-8">
-  <title>Cotton's cafe Site</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.css">
-  <link rel="stylesheet" href="styles/style.processed.css">
-  <style>
-    body {
-      background-color: rgb(0, 255, 191);
-    }
-    h1 {
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-  <header class="top-bar site-header">
-    <div class="top-bar-left">
-      <nav><a href="/Home.html">Home page - </a><a href="/about.html">About Us - </a><a href="/Menu.html">Menu - </a><a href="/Contact.html">Contact information - </a><a href="/Reviews.html">Ratings - </a> <a href="/Pictures.html"> Gallery</a></nav>
-    </div>
-  </header>
-  <main class="site-content">
-    <h3 style="font-family:courier;">
-  </main>
-  <h1> Welcome to Cotton's Cafe</h1>
-  <p> We are an early workin restaurant, for the farmers, and people who have to leave for work early, or an early riser. We have fresh home baked meals for great prices.</p>
-  <p>
-    <div class="row">
-      <div class="columns small-4 large-4">Hours Open<br> Monday: 5:00am-1:30pm<br> Tuesday: 5:00am-1:30pm<br> Wednesday: 5:00am-1:30pm<br> Thursday: 5:00am-1:30pm<br> Friday: 5:00am-1:30pm<br> Saturday: 5:00am-12:45pm<br> Sunday: closed<br>
-
-      <!DOCTYPE html>
-<html lang="en">
-</html>
-<head>
-  <meta charset="utf-8">
-
   <title>Cottons's Cafe Site</title>
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.css">
-
   <link rel="stylesheet" href="styles/style.processed.css">
   <style>
     body {
