@@ -198,7 +198,6 @@
 <head>
 
 
-
   <meta charset="utf-8">
   <title>Cottons's cafe Site</title>
 
@@ -224,31 +223,12 @@
       <div class="columns small-14 large-14">Reveiw<br> Good food. Good company. Prices are a little high and they do not accept credit or debit cards. That is my major complaint about this little dinner. It's good old fashioned greasy food. If you only have plastic payment methods or are
         on a diet avoid this place. ~According to Mathew M. from yelp resources<br>
         <div class="columns small-14 large-14">Review 2<br>
-
           <p lang="en">This is practically the only place to eat in the downtown area of Trenton. &nbsp;I've always found the Italian restaurant "Rasatos" closed. &nbsp;When you arrive in town, you'll find that most of the store fronts are empty, or are office type
-
-
-
             businesses. &nbsp;So, as a tourist, plan your day to start at the "Last Drop Coffee Shop", &nbsp;schedule a tour of the teapots or walk the tour... then, after shopping at the 4 boutique stores near the courthouse, stash your bags in the car
-
-
-
             and eat lunch at Cottons. &nbsp;Check your diet at the door... this is &nbsp;a "greasy spoon" with a fantastic wait staff who can recommend your next "usual." &nbsp;The bacon cheese burger is amazing, but I've seen several natives eating the
-
-
-
             daily specials, which come in extra healthy portions. &nbsp;The hamburger is purchased fresh ground daily from the local butcher (local grocery) which is a definite source of (well deserved) pride. &nbsp;As burger places go, its a tad expensive,
-
-
-
             but like JB reviewed in 2013, the local "elite" are regulars. &nbsp;As an urbanite from up north, I actually laughed out loud when a series of enormous John Deer combines and tractors paraded through town, past the front window! &nbsp;I felt
-
-
-
             almost like a kid seeing do many big tractors! &nbsp;So stereotypical, but also so natural to see the rural life, the real people, and experience southern hospitality and good food. &nbsp;The 4 start rating is because ths is a cool place,
-
-
-
             and I really like it, but the food really is just what you'd expect... nothing new, unusual, or exciting. &nbsp;Its not a place I'd say make a point of visiting, which would be a 5... but I am a fan! ~According to Lisa D. from Yelp resources.</p>
   </main>
   header.top-bar.site-header
