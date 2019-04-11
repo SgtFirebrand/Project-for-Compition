@@ -1,20 +1,12 @@
 # Project-for-Compition
 <!DOCTYPE html>
-
 <html lang="en">
-
 </html>
-
 <head>
-
   <meta charset="utf-8">
-
   <title>Cotton's cafe Site</title>
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.css">
-
   <link rel="stylesheet" href="styles/style.processed.css">
-
   <style>
     body {
       background-color: rgb(0, 255, 191);
@@ -137,20 +129,20 @@
 <body>
 
   <div class="gallery">
-    <a target="_blank" href="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.1&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe">
+    <a target="_blank" href="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.1&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe/picture.jpg">
         </a>
-    <img src="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.1&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe" alt="Cottons Cafe" width: 300 height: 450>
+    <img src="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.1&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe/picture.jpg" alt="Cottons Cafe" width: 300 height: 450>
   </div>
   <div class="gallery">
-    <a target="_blank" href="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.2&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe">
+    <a target="_blank" href="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.2&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe/picture.jpg">
           </a>
-    <img src="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.2&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe" alt="Cotton's Cafe" width: 300 height: 450>
+    <img src="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.2&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe/picutre.jpg" alt="Cotton's Cafe" width: 300 height: 450>
 
   </div>
   <div class="gallery">
-    <a target="_blank" href="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.3&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe">
+    <a target="_blank" href="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.3&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe/picture.jpg">
           </a>
-    <img src="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.3&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe" alt="Cotton's Cafe" width: 300 height: 450>
+    <img src="https://mail.google.com/mail/u/0?ui=2&ik=ec8c29b7be&attid=0.3&permmsgid=msg-f:1626742769354111488&th=169359ee0c497a00&view=att&disp=safe/picture.jpg" alt="Cotton's Cafe" width: 300 height: 450>
   </div>
 </body>
 </html>
