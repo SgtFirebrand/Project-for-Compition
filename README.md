@@ -41,7 +41,6 @@
 </p>
 </body> 
 </html>
-  
      <!DOCTYPE html>
 <html lang="en">
 </html>
@@ -65,7 +64,6 @@
       <nav><a href="/Home.html">Home page -</a> <a href="/about.html">About Us -</a> <a href="/Menu.html">Menu -</a> <a href="/Contact.html">Contact information -</a> <a href="/Reviews.html">Ratings - </a> <a href="/Pictures.html"> Gallery</a></nav>
     </div>
   </header>
-
   <main class="site-content">
     <h3 style="font-family:courier;"> Menu options </h3>
     <p> Breakfast Menu </p>
@@ -89,16 +87,9 @@
 </html>
 <head>
   <meta charset="utf-8">
-
-
-
   <title>Cottons's cafe Site</title>
 
-
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.css">
-
-
 
   <link rel="stylesheet" href="styles/style.processed.css">
   <body>
